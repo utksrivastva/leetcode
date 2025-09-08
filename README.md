@@ -9,3 +9,4 @@ This repository contains solutions for the following problems solved on LeetCode
 - Four sum
 - Valid palindrome
 - Valid anagram
+- Trapping rain water
