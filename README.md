@@ -8,3 +8,4 @@ This repository contains solutions for the following problems solved on LeetCode
 - Three sum
 - Four sum
 - Valid palindrome
+- Valid anagram
